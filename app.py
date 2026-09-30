@@ -87,19 +87,19 @@ pages = [
     st.Page(
         "pages/page1.py",
         title="球員分析",
-        icon="📊"
+        icon="🏀"
     ),
 
     st.Page(
             "pages/nba1.py",
             title="湖人隊球員分析",
-            icon="📊"
+            icon="🏀"
         ),
 
     st.Page(
             "pages/nba2.py",
             title="各隊球員分析",
-            icon="📊"
+            icon="🏀"
         )
 
 ]
