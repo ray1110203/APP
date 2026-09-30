@@ -100,8 +100,11 @@ pages = [
             "pages/nba2.py",
             title="各隊球員分析",
             icon="🏀"
+        ),
+    st.Page("pages/nba3.py",       #把檔案路徑放進來
+            title="NBA 球員數據查詢系統",    #導覽列上面顯示的文字 
+            icon="🏀"       #文字前面的小小icon
         )
-
 ]
 
 # 這個就是在建立導航欄
